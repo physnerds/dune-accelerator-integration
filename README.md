@@ -18,9 +18,9 @@ The project conducts the survey related to accelerator integration in the DUNE e
 
 ### Identify algorithms widely used by LArTPC experiments, within LArsoft
 
-### Identify algorithms widely used by LArTPC experiments, within LArsoft
+### While finalizing the framework needs, work within the existing framework and port algorithms to a functional paradigm
 
-### Identify algorithms widely used by LArTPC experiments, within LArsoft
+### Deliver a guidebook (cook book) with examples on transform, reduction operations
 
 
 # Survey Plannings (01/01/2025 .....)
